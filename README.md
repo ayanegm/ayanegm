@@ -15,7 +15,7 @@
 - C++ (problem solving)  
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/aya-shawky)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayanegm)  
 - 🐙 [GitHub](https://github.com/ayanegm)
 - ✉️ Email: ayanegm016@gmail.com
 
