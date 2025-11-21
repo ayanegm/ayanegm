@@ -6,7 +6,7 @@
 - 🛍️ [E-Commerce App](https://github.com/ayanegm/ecommerce_app) – Flutter + API integration  
 - 📰 [News App](https://github.com/ayanegm/news_app) – Displays real-time news using REST API  
 - 💬 [Chat App](https://github.com/ayanegm/chat-app) – Real-time messaging and user authentication 
-- 🌦️ [Weather App](https://github.com/ayanegm/weather-app) – Displays current weather and forecasts using external APIs 
+- 🌦️ [Weather App]([https://github.com/ayanegm/weather-app](https://github.com/ayanegm/weather_app)) – Displays current weather and forecasts using external APIs 
 
 ## 🧠 Tech Stack
 - Flutter & Dart  
