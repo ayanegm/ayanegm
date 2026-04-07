@@ -4,9 +4,10 @@
 
 ## 🚀 My Flutter Projects
 - 🛍️ [E-Commerce App](https://github.com/ayanegm/ecommerce_app) – Flutter + API integration  
-- 📰 [Productivity_ App](https://github.com/ayanegm/productivity_app) – Displays real-time news using FirebaseAuth ,FireStore , cubit and push notifications
+- 📰 [Productivity_ App](https://github.com/ayanegm/productivity_app) – add task and keep track of you progress using FirebaseAuth ,FireStore , cubit and push notifications
 - 💬 [Chat App](https://github.com/ayanegm/chat-app) – Real-time messaging and user authentication 
 - 🌦️ [Weather App](https://github.com/ayanegm/weather_app) – Displays current weather and forecasts using external APIs 
+- 🛍️ [InstaDoctor App](https://github.com/ayanegm/InstaDoctor) – Flutter + using FirebaseAuth ,FireStore , cubit 
 
 ## 🧠 Tech Stack
 - Flutter & Dart  
