@@ -18,6 +18,5 @@
 
 ## 📫 Connect with Me
 -   [LinkedIn](https://www.linkedin.com/in/ayanegm)  
--   [GitHub](https://github.com/ayanegm)
 -   Email: ayanegm016@gmail.com
 
