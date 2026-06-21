@@ -8,7 +8,8 @@
 -   [Weather App](https://github.com/ayanegm/weather_app) – Displays current weather and forecasts using external APIs 
 -   [Chat App](https://github.com/ayanegm/chat-app) – Real-time messaging and user authentication 
 -   [E-Commerce App](https://github.com/ayanegm/ecommerce_app) – Flutter + API integration  
--   [Sentiment Analysis (NLP)](https://github.com/ayanegm/twitter-sentiment-analysis)   
+-   [Sentiment Analysis (NLP)](https://github.com/ayanegm/twitter-sentiment-analysis)
+-   [Echo App](https://github.com/ayanegm/echo-app)
 ##   Tech Stack
 - Flutter & Dart  
 - Firebase  
