@@ -4,12 +4,8 @@
 
 ##   My Flutter Projects
 -   [Productivity_ App](https://github.com/ayanegm/productivity_app) – add task and keep track of you progress using FirebaseAuth ,FireStore , cubit and push notifications
--   [InstaDoctor App](https://github.com/ayanegm/InstaDoctor) – Flutter + using FirebaseAuth ,FireStore , cubit (this app has the both the doctor side and user side)
--   [Echo App](https://github.com/ayanegm/echo-app)
--   [Chat App](https://github.com/ayanegm/chat-app) – Real-time messaging and user authentication 
--   [E-Commerce App](https://github.com/ayanegm/ecommerce_app) – Flutter + API integration  
--   [Sentiment Analysis (NLP)](https://github.com/ayanegm/twitter-sentiment-analysis)
-
+-   [Doctor_ Hunt_ App](https://github.com/ayanegm/Doctor_Hunt)
+-   [Grow Edge App](https://github.com/ayanegm/Grow-Edge-App)
 ##   Tech Stack
 - Flutter & Dart  
 - Firebase  
