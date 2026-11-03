@@ -12,6 +12,7 @@
 - REST APIs
 - SharedPreferences & Hive
 - Third-Party Services: Fawry Payment Gateway
+- Testing
 - C++ (problem solving)  
 
 ## 📫 Connect with Me
